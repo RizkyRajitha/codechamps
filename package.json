@@ -1,0 +1,16 @@
+{
+  "name": "DOENETS",
+  "version": "1.0.0",
+  "description": "A minimal Electron application for codechamps by rajitha gunathilake",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  
+  "author": "rajitha gunathilake",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^5.0.6",
+    "electron-packager": "^14.0.1"
+  }
+}
